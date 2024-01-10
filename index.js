@@ -7,17 +7,13 @@ let hasClickedCard = false; // Kontroll för om ett kort är klickat eller ej
 
 let lockCard = false; // Kontroll för om ett kort kan flippa eller ej
 
-let startTime;
+let startTime; // Sparar när tiden startas
 
-let timerInterval;
+let timerInterval; // Hanterar intervall för att udatera timern
 
-let activeGame;
+let activeGame; // Om dpelet är igång eller ej
 
-let resultDialog;
-
-let firstcard;
-
-let secondcard;
+let resultDialog; // Dialogruta
 
 function init() {
 

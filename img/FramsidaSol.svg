@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231 301">
+  <g id="Lager_1" data-name="Lager 1">
+    <rect x=".5" y=".5" width="230" height="300" rx="42.83" ry="42.83" style="fill: #fafae9; stroke: #1d1d1b; stroke-miterlimit: 10;"/>
+    <polygon points="177.85 191.02 144.38 175.18 173.4 154.27 177.85 191.02" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="48.46 61.46 84.03 71.75 58.75 97.03 48.46 61.46" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="50.17 191.97 52.35 155.01 82.59 174.09 50.17 191.97" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  </g>
+  <g id="Lager_3" data-name="Lager 3">
+    <text transform="translate(98.33 236.79)" style="fill: #1d1d1b; font-family: RowdyHeavy, RowdyHeavy; font-size: 20px;"><tspan x="0" y="0">Sol</tspan></text>
+    <ellipse cx="114.53" cy="125.73" rx="38.98" ry="37.38" style="fill: #e5a432; stroke: #f6ec6f; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="114.53 41.56 132.41 73.98 96.65 73.98 114.53 41.56" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="202.87 125.73 170.45 143.61 170.45 107.85 202.87 125.73" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="25.5 127.81 57.92 109.93 57.92 145.69 25.5 127.81" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="114.53 208.04 96.65 175.62 132.41 175.62 114.53 208.04" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    <polygon points="181.26 61.62 170.98 97.19 145.69 71.9 181.26 61.62" style="fill: #f1e62b; stroke: #f6ec73; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  </g>
+</svg>

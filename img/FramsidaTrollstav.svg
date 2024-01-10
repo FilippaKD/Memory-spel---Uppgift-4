@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231 301">
+  <g id="Lager_1" data-name="Lager 1">
+    <rect x=".5" y=".5" width="230" height="300" rx="42.83" ry="42.83" style="fill: #fafae9; stroke: #1d1d1b; stroke-miterlimit: 10;"/>
+  </g>
+  <g id="Lager_3" data-name="Lager 3">
+    <text transform="translate(68.36 236.79)" style="fill: #1d1d1b; font-family: RowdyHeavy, RowdyHeavy; font-size: 20px;"><tspan x="0" y="0">Trollstav</tspan></text>
+    <rect x="131.5" y="70.01" width="11.01" height="123.36" rx="3.67" ry="3.67" transform="translate(321.49 177.24) rotate(150)" style="fill: #1d1d1b; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <rect x="103.59" y="76.92" width="11.01" height="12.85" rx="3.67" ry="3.67" transform="translate(245.23 100.98) rotate(150)" style="fill: #fff; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="61.63 73.87 55.65 71.39 50.21 74.9 50.73 68.45 45.7 64.37 52 62.86 54.33 56.82 57.71 62.34 64.17 62.69 59.96 67.61 61.63 73.87" style="fill: #fbf7cb; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="89.69 80.66 88.61 78.48 86.2 78.13 87.95 76.43 87.53 74.03 89.69 75.16 91.85 74.03 91.43 76.43 93.18 78.13 90.77 78.48 89.69 80.66" style="fill: #294093; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="99.96 34.34 95.07 34.04 92.04 37.91 90.81 33.15 86.2 31.47 90.34 28.84 90.51 23.93 94.3 27.05 99.02 25.7 97.22 30.27 99.96 34.34" style="fill: #fbf7cb; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="112.92 65.86 107.78 61.95 101.64 63.96 103.78 57.86 99.96 52.64 106.42 52.79 110.21 47.56 112.06 53.74 118.21 55.73 112.9 59.4 112.92 65.86" style="fill: #2c53a1; stroke: #2e414a; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  </g>
+</svg>

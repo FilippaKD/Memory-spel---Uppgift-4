@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+   <meta charset="utf-8">
+   <title>Digital Multimedia - Uppgift 4</title>
+   <link rel="stylesheet" href="stylesheet.css">
+   <script src="index.js"></script>
+</head>
+
+<body>
+
+   <h1>Memory spel</h1>
+
+   <h2>Spelregler:</h2>
+   <p>Försök hitta två likadana bilder bland korten. Hitta alla matchande par på så kort tid som möjligt.</p>
+
+   <div id="startntimer">
+   <button type="button" id="startBtn">Starta spel</button> 
+   <button type="button" id="endBtn">Avsluta</button> 
+   <div id="timerbox">Tid: <span id="timer"></span></div>
+   </div>
+   <hr>
+
+<section id="memoryGame">
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaBallong.svg" alt="Ballong">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaBallong.svg" alt="Ballong">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaLöv.svg" alt="Löv">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaLöv.svg" alt="Löv">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaSjärna.svg" alt="Stjärna">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaSjärna.svg" alt="Stjärna">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaTrollstav.svg" alt="Trollstav">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaTrollstav.svg" alt="Trollstav">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaMåne.svg" alt="Måne">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaMåne.svg" alt="Måne">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaSol.svg" alt="Sol">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+
+   <div class="memoryCard">
+      <img class="cardFront" src="img/FramsidaSol.svg" alt="Sol">
+      <img class="cardBack" src="img/Baksidakort.svg" alt="Baksida kort"> 
+   </div>
+   
+   <dialog id="resultPage">
+      <button id="closeBtn"></button>
+      <p>Grattis du hittade alla kort!!</p>
+      <p id="result"></p>
+      <p>Vill du spela igen?</p>
+      <button id="restartBtn">Starta om spel</button> 
+   </dialog>
+  
+</section>
+ 
+<div id="div">
+   <hr>
+   <P>Digitala medier, Filippa Dagerhed</P>
+</div>
+</body>
+
+</html>

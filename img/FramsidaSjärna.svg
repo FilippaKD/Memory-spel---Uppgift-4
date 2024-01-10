@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231 301">
+  <g id="Lager_1" data-name="Lager 1">
+    <rect x=".5" y=".5" width="230" height="300" rx="42.83" ry="42.83" style="fill: #fafae9; stroke: #1d1d1b; stroke-miterlimit: 10;"/>
+  </g>
+  <g id="Lager_3" data-name="Lager 3">
+    <polygon points="150.53 173.65 112.63 153.64 74.66 173.51 81.99 131.28 51.36 101.31 93.78 95.23 112.82 56.84 131.71 95.3 174.11 101.55 143.36 131.4 150.53 173.65" style="fill: #6c9ad1; stroke: #2a4899; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <text transform="translate(77.62 236.79)" style="fill: #1d1d1b; font-family: RowdyHeavy, RowdyHeavy; font-size: 20px;"><tspan x="0" y="0">Stjärna</tspan></text>
+  </g>
+</svg>

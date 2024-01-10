@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_1" data-name="Lager 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231 301">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #35368c;
+        stroke: #1d1d1b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #272b60;
+        stroke-width: 13px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".5" y=".5" width="230" height="300" rx="42.83" ry="42.83"/>
+  <rect class="cls-2" x="68" y="103" width="95" height="95"/>
+</svg>
